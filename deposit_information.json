@@ -1,0 +1,13 @@
+{
+	"ContractParty" : "38198-0518045",
+	"DepositVersion" : "1.0.1",
+	"DepositName" : "3",
+	"Encryption" : {
+		"Toolname" : "1Encryptorg",
+		"Version" : "1.0",
+		"Key" : "9087654321",
+		"Hardware" : "Linux",
+		"Software" : "Kelopatra",
+		"Other" : "test1"
+	}
+}
